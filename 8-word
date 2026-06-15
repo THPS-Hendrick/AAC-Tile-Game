@@ -1,4 +1,4 @@
-```json
+
 [
   { "activityNumber": 1, "targetSentence": ["I", "Like", "When", "My", "Mom", "Plays", "With", "Me"], "wordPool": ["I", "Like", "When", "My", "Mom", "Plays", "With", "Me", "Dad", "Stop"] },
   { "activityNumber": 2, "targetSentence": ["I", "Want", "To", "Give", "My", "Dad", "A", "Hug"], "wordPool": ["I", "Want", "To", "Give", "My", "Dad", "A", "Hug", "Take", "Kiss"] },
